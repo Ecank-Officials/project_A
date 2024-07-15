@@ -1,2 +1,3 @@
 # projectA
-rust game
+rust game by bevy
+
